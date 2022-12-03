@@ -8,12 +8,12 @@ This is a quick introduction to the ideas and concepts that I came up with while
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Logo Color | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
-| Font Color | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
-| Primary Color | ![#aa34fa](https://via.placeholder.com/10/aa34fa?text=+) #aa34fa |
-| Alternative Color | ![#7323af](https://via.placeholder.com/10/7323af?text=+) #7323af |
-| Gradient Beginning Color | ![#211C30](https://via.placeholder.com/10/211C30?text=+) #211C30 |
-| Gradient Ending Color | ![#5232A3](https://via.placeholder.com/10/5232A3?text=+) #5232A3 |
+| Logo Color | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF) #FFFFFF |
+| Font Color | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF) #FFFFFF |
+| Primary Color | ![#aa34fa](https://via.placeholder.com/10/aa34fa) #aa34fa |
+| Alternative Color | ![#7323af](https://via.placeholder.com/10/7323af) #7323af |
+| Gradient Beginning Color | ![#211C30](https://via.placeholder.com/10/211C30) #211C30 |
+| Gradient Ending Color | ![#5232A3](https://via.placeholder.com/10/5232A3) #5232A3 |
 
 
 ## Logos and Lettermarks
